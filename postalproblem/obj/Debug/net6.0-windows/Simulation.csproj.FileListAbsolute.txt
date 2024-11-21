@@ -1,0 +1,17 @@
+C:\Workspace\Simulation\bin\Debug\net6.0-windows\Simulation.exe
+C:\Workspace\Simulation\bin\Debug\net6.0-windows\Simulation.deps.json
+C:\Workspace\Simulation\bin\Debug\net6.0-windows\Simulation.runtimeconfig.json
+C:\Workspace\Simulation\bin\Debug\net6.0-windows\Simulation.dll
+C:\Workspace\Simulation\bin\Debug\net6.0-windows\Simulation.pdb
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.csproj.AssemblyReference.cache
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.csproj.GenerateResource.cache
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.AssemblyInfoInputs.cache
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.AssemblyInfo.cs
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.csproj.CoreCompileInputs.cache
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.dll
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\refint\Simulation.dll
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.pdb
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\Simulation.genruntimeconfig.cache
+C:\Workspace\Simulation\obj\Debug\net6.0-windows\ref\Simulation.dll
